@@ -1,0 +1,42 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+env/
+venv/
+ENV/
+.venv/
+.python-version
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Arquivos de log e temporários
+*.log
+*.out
+*.tmp
+
+# Dados temporários (opcional)
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.pkl
+*.h5
+*.db
+*.sqlite3
+
+# IDEs e editores
+.vscode/
+.idea/
+
+# Arquivos de backup e swp
+*.swp
+*.bak
+*~
